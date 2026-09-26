@@ -10,7 +10,10 @@ Este repositório é dedicado a práticas e laboratórios focados no design de t
 ## 📂 Meus Projetos:
 
 ### 1. Configuração do DHCP em um Roteador Wireless
+**Diretório:** [`/Configuracao_do_DHCP_em_um_Roteador_Wireless`](./Configuracao_do_DHCP_em_um_Roteador_Wireless_sem_fio)
 **Topologia:** Arquivo `.pkt` disponível no repositório.
+
+<img width="1917" height="855" alt="image" src="https://github.com/user-attachments/assets/835a3b06-8505-4128-a4a1-28c32f8c67e6" />
 
 Implementação prática de uma rede local (LAN) com distribuição dinâmica de IPs através de uma infraestrutura sem fios.
 * **Tecnologias:** Cisco Packet Tracer, Roteadores Wireless, Dispositivos Finais.
