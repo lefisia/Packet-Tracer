@@ -22,7 +22,7 @@ Implementação prática de uma rede local (LAN) com distribuição dinâmica de
 
 ---
 
-## 🛠️ Como Clonar e Executar
+## Como Clonar e Executar?
 
 Para explorar as topologias e testar as configurações na sua máquina:
 
