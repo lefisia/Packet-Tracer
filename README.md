@@ -39,9 +39,8 @@ Implementação de medidas de proteção contra acessos não autorizados numa re
 
 ## Como Clonar e Executar?
 
-Para explorar as topologias e testar as configurações na sua máquina:
+Para explorar o código fonte ou rodar as simulações na sua máquina, apenas:
 
-1. Certifique-se de que tem o software **Cisco Packet Tracer** instalado no seu computador.
-2. Clone este repositório utilizando o terminal:
+1. Clone o repositório:
    ```bash
    git clone [https://github.com/lefisia/Packet-Tracer.git](https://github.com/lefisia/Packet-Tracer.git)
